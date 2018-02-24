@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testffmpeg", "testffmpeg.vcxproj", "{A3E2F386-2760-4C5B-89D8-BDA6B3905867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_64|Win32 = Debug_64|Win32
+		Debug_64|x64 = Debug_64|x64
+		Release_64|Win32 = Release_64|Win32
+		Release_64|x64 = Release_64|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Debug_64|Win32.ActiveCfg = Debug_64|Win32
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Debug_64|Win32.Build.0 = Debug_64|Win32
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Debug_64|x64.ActiveCfg = Release_64|x64
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Debug_64|x64.Build.0 = Release_64|x64
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Release_64|Win32.ActiveCfg = Release_64|Win32
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Release_64|Win32.Build.0 = Release_64|Win32
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Release_64|x64.ActiveCfg = Release_64|x64
+		{A3E2F386-2760-4C5B-89D8-BDA6B3905867}.Release_64|x64.Build.0 = Release_64|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
